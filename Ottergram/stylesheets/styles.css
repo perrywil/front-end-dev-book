@@ -6,7 +6,6 @@ a {
   text-decoration: none;
 }
 
-
 .thumbnail-title {
   display: block;
   margin: 0;
@@ -16,4 +15,9 @@ a {
   color: rgb(202, 238, 255);
 
   font-size: 18px;
+}
+
+.thumbnail-image {
+  display: block;
+  width: 100%;
 }
